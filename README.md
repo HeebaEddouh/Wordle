@@ -30,7 +30,7 @@ https://imgur.com/a/vhH9A25
 
 ## Notes
 
-The instructions were challenging since they were a little bit vague.
+The project was challenging since the instructions were a little vague.
 
 ## License
 
