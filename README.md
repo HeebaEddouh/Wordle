@@ -30,7 +30,7 @@ https://imgur.com/a/vhH9A25
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The instructions were challenging since they were a little bit vague.
 
 ## License
 
