@@ -4,7 +4,6 @@ Submitted by: Heeba Eddouh
 
 **Wordle** is an app that allows you to play a game based on guessing words with letters.
 
-Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -14,23 +13,9 @@ The following **required** functionality is completed:
 - [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
 - [x] User can play a basic version of Wordle, with different goal words each time
 
-The following **optional** features are implemented:
-
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
-- [ ] Run the app on a device rather than in the simulator
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 https://imgur.com/a/vhH9A25 
-
-
-## Notes
-
-Great project to practice with. The instructions were a little bit vague which made it difficult.
 
 ## License
 
